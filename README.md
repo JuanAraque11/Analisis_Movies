@@ -8,6 +8,8 @@ The dataset used in this analysis was compiled from IMDb's public database and c
 
 The dataset is available in the file `imdb_top_1000.csv`.
 
+Taken from: [Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/data).
+
 ## Exploration and Analysis
 
 In the provided Jupyter Notebook in the `notebook` folder, a comprehensive analysis of the top 1000 IMDb movies' data is carried out. This includes:
